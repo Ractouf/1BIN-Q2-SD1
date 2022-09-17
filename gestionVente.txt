@@ -1,0 +1,17 @@
+5
+A
+Albert
+3
+B
+Balthazar
+2
+C
+Clémentin
+1
+D
+Dorothée
+4
+E
+Eclusiastre
+3
+10
